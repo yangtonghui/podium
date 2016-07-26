@@ -1,0 +1,88 @@
+/*活动详情页的样式*/
+.datail-ad-box{
+	width:100%;
+	min-height:100%;
+	padding-bottom:4.871rem; 
+}
+.datail-ad-box img{
+	width:100%;
+	margin-bottom:-0.22rem;
+}
+.deatil-intro{
+	width:12.712rem;
+	height:5.544rem;
+	padding:0.6rem;
+	background:url(../images/actd-bg.png);
+	position:absolute;
+	top:1rem;
+	right:-11.5rem;
+	border-radius:0.4rem;
+	overflow:hidden;
+}
+.deatil-intro div{
+	float:left;
+	height:5.544rem;
+	color:#fff;
+}
+.deatil-intro-title{
+	font-size:0.683rem;
+	width:1.4rem;
+	line-height:1rem;
+	text-align:center;
+	margin-right:0.512rem;
+	position:relative;
+}
+.intro-trangle{
+	display:inline-block;
+	width:0.496rem;
+	height:0.683rem;
+	background:url(../images/actDicon.png) no-repeat center center;
+	-webkit-background-size: 0.469rem 0.683rem;
+	background-size: 0.469rem 0.683rem;
+	position:absolute;
+	left:50%;
+	margin-left:-0.248rem;
+	bottom:0.212rem;
+}
+.deatil-intro-text{
+	width:10rem;
+	padding-right:0.3rem;
+	font-size:0.512rem;
+	line-height:0.8rem;
+	overflow:auto;
+}
+.color-bar{
+	width:100%;
+	height:2.304rem;
+	line-height:1.8rem;
+	background:url(../images/hengfu.png) no-repeat;
+	-webkit-background-size:100% 100%;
+	background-size:100% 100%;
+	position:fixed;
+	left:0;
+	bottom:2.567rem;
+}
+.color-bar-text{
+	margin-left:1rem;
+	color:#fff;
+	font-size:0.612rem;
+}
+.color-bar-text span{
+	font-size:0.512rem;
+	margin-left: 0.512rem;
+}
+.btn-go{
+	width:3.07rem;
+	height:1.195rem;
+	font-size:0.8rem;
+	border-radius: 0.2rem;
+	position:absolute;
+	right:1rem;
+	top:50%;
+	margin-top:-0.7rem;
+	color:#fff;
+	background: -webkit-linear-gradient(top,#dbdbdb 0%,#b0b0b0 60%,#a0a0a0 100%);
+}
+.btn-goto{
+	background: -webkit-linear-gradient(top,#ffa90b 0%,#ff8a00 50%,#ff6d00 100%)!important;
+}

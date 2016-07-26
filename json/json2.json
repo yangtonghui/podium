@@ -1,0 +1,49 @@
+{
+    "status": "200",
+    "msg": "成功",
+    "data": {
+    	"isSignIn" : "0",
+    	"signCoinNum" : 100,
+        "podiumList": [
+            {
+                "podiumId": "829",
+                "noticeTag": 1,
+                "sponsor": "亚信科技",
+                "title": "Heppy New Year想要奖品进组",
+                "startDate": "2015年12月14日",
+                "endDate":"2015年12月31日",
+                "startTime":"17:00",
+                "endTime":"24:00",
+                "imageUrl": "images/banner1.png",
+                "groupId":"0",
+                "activityStatus":0
+            },
+            {
+                "podiumId": "830",
+                "noticeTag": 1,
+                "sponsor": "亚信科技",
+                "title": "Heppy New Year想要奖品进组",
+                "startDate": "2015年12月14日",
+                "endDate":"2015年12月31日",
+                "startTime":"17:00",
+                "endTime":"24:00",
+                "imageUrl": "images/banner2.png",
+                "groupId":"0",
+                "activityStatus":1
+            },
+            {
+                "podiumId": "831",
+                "noticeTag": 1,
+                "sponsor": "亚信科技",
+                "title": "Heppy New Year想要奖品进组",
+                "startDate": "2015年12月14日",
+                "endDate":"2015年12月31日",
+                "startTime":"17:00",
+                "endTime":"24:00",
+                "imageUrl": "images/banner3.png",
+                "groupId":"0",
+                "activityStatus":2
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+.prize-banner{
+	width:100%;
+	height:auto;
+}
+.prize-list{
+	padding-bottom:2.667rem;
+}
+.prize-list>li{
+	width:100%;
+	height:5.12rem;
+	overflow: hidden;
+	background-color: #fff;
+	border-bottom:1px solid #D4D4D4;
+}
+.prize-list>li>div{
+	float:left;
+	height:5.12rem;
+}
+.prize-list-img{
+	width:4.864rem;
+	height:3.584rem;
+	padding:0.768rem;
+}
+.prize-list-img img{
+	width:4.864rem;
+	height:3.584rem;
+	box-shadow: 2px 2px 6px #D4D4D4;
+}
+.prize-list-text{
+	width:9.6rem;
+	height:3.584rem;
+	padding:0.768rem 0 0.768rem 0;
+	font-size:0.512rem;
+	line-height: 1rem;
+}
+.prize-list-title{
+	font-size: 0.612rem;
+}
+.prize-list-time{
+	height:1.8rem;
+	overflow: hidden;
+}
+.prize-list-time div{
+	height:1.8rem;
+	line-height:0.9rem;
+	float:left;
+}
+.prize-list-time div:nth-child(1){
+	width:2.56rem;
+}
+.prize-list-time div:nth-child(2){
+	width:7rem;
+}
+#reocrdList li{
+	margin-bottom:0.312rem;
+}

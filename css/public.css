@@ -1,0 +1,149 @@
+/*nav的样式*/
+.nav-part{
+	display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+	width:100%;
+	height:2.667rem;
+	position:fixed;
+	left:0;
+	bottom:0;
+    background-color: #fff;
+}
+.nav-icon{
+	-webkit-box-flex: 1;
+    -webkit-flex: 1;
+    flex: 1;
+    height:2.667rem;
+    line-height: 2.667rem;
+    text-align: center;
+    border-left: 1px solid #e3e3e3;
+}
+.nav-icon>span{
+	width:1.667rem;
+	height: 1.667rem;
+	margin-top:0.6rem;
+	background:url(../images/nav-icon.png) no-repeat;
+	-webkit-background-size:6.11rem 3.5rem;
+	background-size:6.11rem 3.5rem;
+	background-position:0.1rem 0.1rem;
+	display:inline-block;
+}
+.nav-part div:nth-child(2) span{
+	background-position:-2.2rem 0.1rem;
+}
+.nav-part div:nth-child(3) span{
+	background-position:-4.9rem 0.1rem;
+	margin-left: 0.2rem;
+}
+.nav-part-cur1{
+	background-position:0.2rem -1.9rem!important;
+}
+.nav-part-cur2{
+	background-position:-2.3rem -1.9rem!important;
+}
+.nav-part-cur3{
+	background-position:-5rem -1.9rem!important;
+}
+/*按钮样式*/
+.download-alert{
+	width:12rem;
+	height:5.6rem;
+	background-color:#fff;
+	border-radius: 0.1rem;
+	position:absolute;
+	top:40%;
+	left:50%;
+	margin-top:-4rem;
+	margin-left:-6rem;
+	text-align:center;
+	line-height: 1.2rem;
+}
+.download-alert p{
+	margin:0.512rem;
+	font-size:0.597rem;
+}
+.download-btn{
+	width:6rem;
+	height:1.2rem;
+	line-height: 1.2rem;
+	font-size: 0.597rem;
+	color:#fff;
+	background-color:red;
+	border-radius:2rem;
+}
+.download-bg{
+	width:100%;
+	height:100%;
+	background:url(../images/actd-bg.png);
+	position:fixed;
+	top:0;
+	left:0;
+}
+/*错误信息提示*/
+.error-tips{
+	text-align:center;
+	font-size:0.612rem;
+	margin-top: 1rem;
+	color:#333;
+}
+/* 广告样式 */
+.list-adpos{
+	position:fixed;
+    left:0;
+    bottom:2.667rem;
+}
+.list-ad{
+	width: 100%;
+    height:4.352rem;
+    background-color: #DEE7EA;
+    background: url(../images/ad-bg.png) no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%; 
+}
+.ad-delete {
+	position:absolute;
+    width: 0.683rem;
+    height: 0.683rem;
+    right: 0.512rem;
+    top: 0.512rem;
+}
+.ad-list-box {
+    position: absolute;
+    width:5.803rem;
+    height:3.755rem;
+    bottom: 0;
+    left: 3rem;
+}
+.ad-phone {
+	position:absolute;
+    width:1.48rem;
+    top: 0;
+    left: 2rem;
+    -webkit-animation: phone-run 0.8s linear 0s infinite alternate;
+}
+.ad-gift {
+	position:absolute;
+    width:5rem;
+    bottom: 0;
+    left: 0;
+}
+@-webkit-keyframes phone-run
+{
+    from {-webkit-transform: rotate(-3deg);}
+    to {-webkit-transform: rotate(20deg);}
+}
+.ad-hide{
+	width:2.049rem;
+	height:2.049rem;
+	position:absolute;
+	top:0;
+	right:0;
+}
+.download-app{
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0;
+	left:0;
+}

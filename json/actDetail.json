@@ -1,0 +1,46 @@
+{
+    "status": "200",
+    "msg": "成功",
+    "data": {
+        "podiumId": "898",
+        "sponsor":"乐视颁奖台",
+        "title": "乐视TV超级电视带回家",
+        "activeSharePoint": 30,
+        "requestServerTimeStamp": "1451298821",
+        "startTimeStamp": "1451298819",
+        "stopTimeStamp": "1451298828",
+        "shareUrl":"http://xxxxx/xxxx/xxxx/xxx",
+        "shareImage": "http://xxx/xxx/xxxx.xx",
+        "shareContent": "我正在夺宝奇兵抢福利，这里有很多福利",
+        "joinTotal":3,
+        "shareTotal":3,
+        "joinNumber":0,
+        "shareNumber":0,
+        "startDate": "2015年12月14日",
+        "endDate":"2015年12月31日",
+        "startTime":"17:00",
+        "endTime":"24:00",
+        "prizeRule":"http://xxxxxxx/xxxxxx/xxxxxxxx/xxxxx.xxx",
+        "activityIntro":"哈哈哈哈哈哈",
+        "activityType" : "E",
+        "eligibility" : "0",
+        "prizeList" : [
+           {
+               "prizeGradeName" : "一等奖",
+               "prizeTitle":"活动奖品名称xxxxxxxxxxxxxxx",
+                "prizeCount":10
+           },
+           {
+               "prizeGradeName" : "二等奖",
+               "prizeTitle":"活动奖品名称xxxxxxxxxxxxxxx",
+               "prizeCount":30
+           }
+        ],
+        "imageList":[
+                    {"image":"images/banner1.jpg"},
+                    {"image":"images/banner2.jpg"},
+                    {"image":"images/banner3.jpg"},
+                    {"image":"images/banner1.jpg"}
+                  ] 
+    }
+}

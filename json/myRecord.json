@@ -1,0 +1,41 @@
+{
+    "status": "200",
+    "msg": "成功",
+    "data": {
+        "noticelist": [
+            {
+                "prizeNoticeId": "829",
+                "noticeTag": 0,
+                "sponsor": "天翼",
+                "title": "Happy New Year",
+                "content": ",想要奖品的进组",
+                "startDate": "2015年12月14日",
+                "endDate":"2015年12月31日",
+                "startTime":"17:00","endTime":"24:00",
+                "imageUrl": "images/banner2.png"
+            },
+            {
+                "prizeNoticeId": "829",
+                "noticeTag": 0,
+                "sponsor": "亚信科技",
+                "title": "Happy New Year",
+                "content": ",想要奖品的进组",
+                "startDate": "2015年12月14日",
+                "endDate":"2015年12月31日",
+                "startTime":"17:00","endTime":"24:00",
+                "imageUrl": "images/banner1.png"
+            },
+            {
+                "prizeNoticeId": "829",
+                "noticeTag": 0,
+                "sponsor": "广州恒大",
+                "title": "Happy New Year",
+                "content": ",想要奖品的进组",
+                "startDate": "2015年12月14日",
+                "endDate":"2015年12月31日",
+                "startTime":"17:00","endTime":"24:00",
+                "imageUrl": "images/banner3.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "status": "200",
+  "msg": "成功",
+  "data": {
+    "prizeRule":"http://xxxxxxx/xxxxxx/xxxxxxxx/xxxxx.xxx",
+    "imageUrl":"images/banner1.jpg",
+    "list": [
+        {"winId":"20","winningDate":"2015.10.01","winners":"152****2828"},
+        {"winId":"19","winningDate":"2015.09.20","winners":"152****2828"},
+        {"winId":"18","winningDate":"2015.09.19","winners":"152****2828"},
+        {"winId":"17","winningDate":"2015.09.12","winners":"152****2828"},
+        {"winId":"16","winningDate":"2015.09.12","winners":"152****2828"},
+        {"winId":"15","winningDate":"2015.09.12","winners":"152****2828"},
+        {"winId":"14","winningDate":"2015.09.12","winners":"152****2828"},
+        {"winId":"13","winningDate":"2015.09.12","winners":"152****2828"},
+        {"winId":"12","winningDate":"2015.09.12","winners":"152****2828"},
+        {"winId":"11","winningDate":"2015.09.12","winners":"152****2828"}
+	   ]
+   }
+}

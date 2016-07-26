@@ -1,0 +1,132 @@
+body{
+	width:100%;
+	height:100%;
+	background-color:#ff5c3b;
+}
+.card-head{
+	width:100%;
+	height:8.021rem;
+	background:url(../images/guagua-banner.png) center center no-repeat;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+.card-main{
+	height:6.955rem;
+	width:12.454rem;
+	margin:0 auto;
+	background:url(../images/card-bg.png) center center no-repeat;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+	position:relative;
+}
+.card-container,.card-mask{
+	width:10.6rem;
+	height:5.4rem;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-top:-2.7rem;
+	margin-left: -5.2rem;
+}
+.card-mask{
+	background:url(../images/card_clickbg.png) no-repeat;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+.card-mask p{
+	font-size:0.768rem;
+	line-height:2.8rem;
+	font-weight: bold; 
+	text-align:center;
+	color:#066666;
+}
+.card-mask p span{
+	color:#FE3838;
+}
+.card-btn div,.card-btn{
+	width:7.68rem;
+	height:1.735rem;
+	line-height:1.835rem;
+	text-align:center;
+	background-color:#fe3838;
+	border-radius:0.2rem;
+	color:#f9e954;
+	font-size:0.768rem;
+}
+.card-btn{
+	height:1.835rem;
+	margin:0 auto;
+	background-color:#f93535;
+}
+.prize-text{
+	width:11.4rem;
+	height:0.6rem;
+	margin:0.512rem auto;
+	color:#fff;
+	font-size:0.597rem;
+}
+.prize-text div:nth-child(1){
+	float:left;
+}
+.prize-text div:nth-child(2){
+	float:right;
+}
+.prize-text div span{
+	color:#f9e954;
+}
+.card-prize{
+	width:12.454rem;
+	height:6.4rem;
+	margin:0.512rem auto;
+	margin-top: 0.8rem;
+	background:url(../images/guagua-greybg.png) no-repeat;
+	-webkit-background-size:100% 100%;
+	background-size:100% 100%;
+}
+.card-prize>p{
+	text-align:center;
+	font-size:0.683rem;
+	color:#fff;
+	line-height:2rem;
+}
+.card-prizeCon{
+	width:10.454rem;
+	margin:0 auto;
+	height:3.6rem;
+	font-size:0.528rem;
+	color:#fff;
+}
+.card-prizeCon>p>span{
+	display:inline-block;
+	width:0.3rem;
+	height:0.3rem;
+	border-radius:1rem;
+	background-color:#e0f845;
+	margin-right:0.512rem;
+}
+.prize-rule{
+	text-align: center;
+	font-size: 0.512rem;
+	color:#fff;
+}
+.lottery-text{
+	width:10.6rem;
+	height:5.4rem;
+	text-align:center;
+	font-size:1.365rem;
+	line-height:5.4rem;
+	font-weight:bold;
+	color:#f32e0d;
+	position:absolute;
+	top:0;
+	left:0;
+}
+#lottery{
+	position:absolute;
+	top:0;
+	left:0;
+}
+#img{
+	width:1.53rem;
+	height:1.53rem;
+}
